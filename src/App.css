@@ -4,5 +4,6 @@
 .app_body{
     display: flex;
     background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
 
 }
